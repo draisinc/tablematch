@@ -1,9 +1,0 @@
-StringTest;BooleanTest;IntTest
-"Alpha";True;3
-"Beta";True;3
-"Gamma";True;3
-"Hallo Du";True;4
-"Hey Hallo";True;6
-"Hey Hallo, wie gehts";True;4
-2;False;4
-2;False;4
