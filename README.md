@@ -53,3 +53,7 @@ The following Operator are supported, the Date needs to be in Quotation Marks.
 - **Risk of Code Injection**
 - Correct Error throwing
 - Output column is always dtype = object
+- RegEx not implemented
+- Best Practices
+    - Name result to see which rule was used
+    - Use a Fallback Value at the end of the rules table
